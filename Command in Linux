@@ -1,1 +1,7 @@
 history - show the history
+man man - manual
+pwd - current directory
+Utilizați operatorul > pentru a redirecționa rezultatul echo către un fișier text în loc de ecran:echo redirect this to a file > text_file.txt (se creaza fisierul txt automat).
+Operatorul >> permite, de asemenea, redirecționarea datelor către fișiere. Diferența este că >> adaugă date la sfârșitul fișierului referit, păstrând intact conținutul curent. 
+Pentru a adăuga un mesaj la text_file.txt, lansați comanda de mai jos:echo this text will be appended to the text file >> text_file.txt
+mv kali_folder2/text_file.txt .  - muta fisierul in folderul curent unde te afli. De aici vine punctul de la final.
